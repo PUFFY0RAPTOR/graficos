@@ -1,0 +1,51 @@
+{"months_temperature": [
+    {
+        "date": "Enero", 
+        "high": 39,
+        "low": 27
+    },{
+        "date": "Febrero", 
+        "high": 48,
+        "low": 20
+    },{
+        "date": "Marzo", 
+        "high": 32,
+        "low": 18
+    },{
+        "date": "Abril", 
+        "high": 35,
+        "low": 27
+    },{
+        "date": "Mayo", 
+        "high": 40,
+        "low": 22
+    },{
+        "date": "Junio", 
+        "high": 38,
+        "low": 26
+    },{
+        "date": "Julio", 
+        "high": 48,
+        "low": 30
+    },{
+        "date": "Agosto", 
+        "high": 46,
+        "low": 29
+    },{
+        "date": "Septiembre", 
+        "high": 35,
+        "low": 22
+    },{
+        "date": "Octubre", 
+        "high": 33,
+        "low": 20
+    },{
+        "date": "Noviembre", 
+        "high": 29,
+        "low": 12
+    },{
+        "date": "Diciembre", 
+        "high": 20,
+        "low": 2
+    }  
+]}
